@@ -39,3 +39,6 @@ product_desc VARCHAR(255),
 cost DECIMAL NOT NULL,
 sale_price DECIMAL NOT NULL
 );
+
+--Cleanup Script. WARNING: This will erase the entire database
+DROP DATABASE Class;
