@@ -10,6 +10,6 @@ RETURN
 	FULL JOIN products P on I.product_id = P.product_id
 	WHERE C.email = @email;
 	
---Query the function
+--Query the function, using email pantoons0@phoca.cz as example
 SELECT * FROM Order_Info_From_Email('pantoons0@phoca.cz')
 ORDER BY order_date DESC
