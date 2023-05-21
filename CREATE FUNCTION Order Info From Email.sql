@@ -1,3 +1,4 @@
+--This function allows the user to pull up historic sales information for a customer given the customer's email address
 CREATE FUNCTION Order_Info_From_Email (@email VARCHAR(255))
 RETURNS TABLE AS
 RETURN
@@ -8,3 +9,7 @@ RETURN
 	FULL JOIN order_items I on O.order_id = I.order_id
 	FULL JOIN products P on I.product_id = P.product_id
 	WHERE C.email = @email;
+	
+--Query the function
+SELECT * FROM Order_Info_From_Email('--email--')
+ORDER BY order_date DESC
