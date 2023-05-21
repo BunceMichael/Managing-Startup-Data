@@ -1,0 +1,201 @@
+id,order_id,order_date,customer_id,shipping_name,shipping_street,shipping_city,shipping_state,shipping_zip,order_subtotal
+1,1,2022-05-11 21:16:40,51,Arly Vasquez,850 Crest Line Court,Atlanta,Georgia,30311,38.93
+2,2,2023-03-10 09:51:33,60,Ganny Swanne,824 Dottie Terrace,Canton,Ohio,44720,12.69
+3,3,2022-07-17 05:41:10,59,Carena Hawkey,21199 Summer Ridge Road,Roanoke,Virginia,24004,28.67
+4,4,2023-01-05 12:41:56,72,Odelle Pennells,41 Hanover Lane,Charleston,West Virginia,25336,15.92
+5,5,2022-08-09 07:25:20,54,Igor Rolse,00319 Michigan Lane,Kansas City,Missouri,64144,91.63
+6,6,2023-02-17 13:30:02,26,Andrus Sandlin,1209 Bunker Hill Parkway,Pittsburgh,Pennsylvania,15215,26.68
+7,7,2022-12-31 21:44:16,41,Ellyn Shireff,4989 7th Drive,Columbia,Missouri,65211,46.14
+8,8,2022-07-31 00:42:07,85,Hube Dunbleton,56 Grover Circle,Charleston,South Carolina,29411,29.38
+9,9,2022-05-15 16:08:48,60,Roxanne Redwin,0854 Golf Course Alley,Los Angeles,California,90020,90.53
+10,10,2022-11-14 16:33:50,66,Hedi Tollerton,6859 Del Mar Trail,San Francisco,California,94147,38.14
+11,11,2023-04-22 11:21:39,88,Kalinda Sibbons,40 Katie Parkway,Salt Lake City,Utah,84105,43.91
+12,12,2022-11-10 23:21:59,32,Tore Alphonso,31 Graedel Alley,Cincinnati,Ohio,45271,76.74
+13,13,2022-10-02 19:34:49,60,Retha Lovejoy,9061 Bobwhite Pass,Topeka,Kansas,66699,24.75
+14,14,2022-08-21 22:18:34,4,Eve Lappine,04 Hintze Point,El Paso,Texas,79989,12.35
+15,15,2023-01-26 18:41:47,47,Justino Edmonds,171 Saint Paul Avenue,Nashville,Tennessee,37245,21.37
+16,16,2023-02-22 07:29:47,11,Midge Gilyott,575 Village Green Pass,Honolulu,Hawaii,96835,29.6
+17,17,2023-02-11 10:57:59,20,Chickie Batey,3 Prairie Rose Pass,San Antonio,Texas,78235,89.21
+18,18,2022-07-16 17:56:19,78,Fleming Irvin,2330 Debs Road,Minneapolis,Minnesota,55487,21.6
+19,19,2023-04-30 21:07:30,13,Aloysius Bilbrooke,396 Atwood Place,Omaha,Nebraska,68110,69.07
+20,20,2022-06-01 01:20:21,96,Lauretta Peyro,77 Clyde Gallagher Park,North Las Vegas,Nevada,89087,88.03
+21,21,2022-09-01 13:35:14,45,Rafaello Heeps,88327 Comanche Alley,Columbus,Mississippi,39705,45.13
+22,22,2022-05-14 06:17:46,43,Thomasa Sheriff,5944 Barby Way,Edmond,Oklahoma,73034,58.75
+23,23,2023-04-22 16:26:35,10,Bradford Buy,7582 Karstens Pass,Richmond,Virginia,23293,70.54
+24,24,2022-11-09 07:54:13,97,Mirilla Jewson,3630 Shasta Way,Saint Louis,Missouri,63196,50.11
+25,25,2022-06-19 21:51:17,89,Inigo Warsop,500 Mosinee Point,Dallas,Texas,75277,79.15
+26,26,2022-06-16 20:59:25,83,Orran Bradbury,852 Mockingbird Street,Santa Barbara,California,93150,16.79
+27,27,2023-02-12 09:50:09,80,Rebe Braddock,53 Arrowood Place,San Francisco,California,94177,28.44
+28,28,2022-08-30 20:51:39,96,Cassaundra Buckett,3 Buell Road,Columbia,South Carolina,29208,66.38
+29,29,2022-05-13 04:54:55,9,Conney Dixon,30514 Becker Trail,Los Angeles,California,90005,46.38
+30,30,2023-03-17 08:18:11,16,Karie Schuricht,7 Algoma Lane,Raleigh,North Carolina,27626,74.77
+31,31,2023-04-10 12:40:36,45,Cristabel Fossey,4326 Toban Junction,Jacksonville,Florida,32277,45.41
+32,32,2022-11-26 12:21:38,16,Israel Drinnan,38103 Nancy Point,Lawrenceville,Georgia,30045,80.22
+33,33,2022-10-15 17:16:44,44,York Narbett,0947 Northport Plaza,Salt Lake City,Utah,84152,58.19
+34,34,2023-02-09 10:38:29,95,Clayborne Testro,39 Kingsford Way,New Orleans,Louisiana,70165,25.25
+35,35,2022-11-30 22:24:07,81,Keeley Tippell,04 Mariners Cove Place,Bonita Springs,Florida,34135,35.05
+36,36,2022-06-02 07:08:17,56,Tony Goldthorpe,35671 Memorial Park,Syracuse,New York,13205,33.9
+37,37,2022-12-25 18:46:09,52,Charla Bird,3200 Debra Place,Mobile,Alabama,36641,67.29
+38,38,2023-03-14 23:51:08,20,Raddy Hughill,240 Lunder Circle,Chicago,Illinois,60641,88.05
+39,39,2022-05-30 03:13:14,7,Noll Lapham,7460 Havey Street,Austin,Texas,78737,77.82
+40,40,2022-12-16 01:13:29,81,Elise Elington,03342 Spohn Road,Norfolk,Virginia,23520,52.84
+41,41,2023-02-14 11:35:52,88,Dix O' Mahony,51553 Packers Center,Dayton,Ohio,45419,85.18
+42,42,2023-01-28 11:59:21,100,Wait Osmar,9 6th Alley,Rochester,New York,14619,22.14
+43,43,2022-11-06 10:16:05,100,Grenville Caldwall,1495 Butterfield Crossing,San Diego,California,92153,72.36
+44,44,2022-08-28 15:04:48,6,Ara Kinsett,7349 Pearson Crossing,Grand Junction,Colorado,81505,20.52
+45,45,2022-08-29 07:29:57,38,Ferrell Biggin,1 Westport Road,Corona,California,92878,91.82
+46,46,2022-11-14 20:02:35,50,Lory Perrin,012 Anniversary Pass,Colorado Springs,Colorado,80945,21.14
+47,47,2022-11-06 00:58:27,28,Normie Payne,6974 Sycamore Park,Philadelphia,Pennsylvania,19104,95.16
+48,48,2023-01-25 05:16:01,87,Caria Brende,5014 Autumn Leaf Lane,Tampa,Florida,33694,14.46
+49,49,2023-03-15 20:40:35,2,Lyndsey Tilt,68133 Shelley Alley,Washington,District of Columbia,20205,48.22
+50,50,2022-11-07 22:27:55,50,Carlie Patshull,982 Dottie Parkway,Saint Louis,Missouri,63158,95.17
+51,51,2022-06-24 15:08:11,88,Dian Ciciura,4 Kinsman Trail,Salt Lake City,Utah,84199,55.0
+52,52,2022-11-28 19:38:55,35,Arlina Tidd,17113 Westend Park,Akron,Ohio,44305,91.63
+53,53,2022-09-24 06:59:21,63,Dunstan Conradsen,8339 Gulseth Plaza,Amarillo,Texas,79182,73.35
+54,54,2023-02-28 22:49:10,97,Devondra Bownde,4 Stone Corner Terrace,Harrisburg,Pennsylvania,17110,56.46
+55,55,2023-04-12 20:17:38,30,Stepha Alleyne,78 Lakewood Gardens Trail,Sandy,Utah,84093,71.86
+56,56,2022-07-02 18:49:14,32,Ara Germaine,5 Stoughton Circle,New York City,New York,10045,98.48
+57,57,2023-01-18 22:50:04,92,Jackie Augustine,193 Sachtjen Place,Newport Beach,California,92662,50.81
+58,58,2022-12-02 06:29:25,72,Laurianne Pinnick,8288 Green Road,San Diego,California,92153,19.39
+59,59,2022-12-12 00:17:54,36,Larry Heelis,410 Maryland Hill,Saint Louis,Missouri,63136,79.81
+60,60,2022-11-29 13:34:06,63,Gracia Pattemore,66771 Mesta Avenue,Nashville,Tennessee,37215,50.34
+61,61,2023-02-07 07:39:47,89,Ozzy O'Growgane,93192 Hooker Place,Fort Wayne,Indiana,46814,44.54
+62,62,2022-12-13 23:19:44,94,Jeanelle Alkins,3295 Lillian Way,Lincoln,Nebraska,68517,28.95
+63,63,2022-12-27 14:41:40,91,Carmen Hinstridge,66 Vahlen Trail,Houston,Texas,77085,93.05
+64,64,2022-12-21 15:04:32,14,Cirillo Ferrucci,8053 Mayer Center,Wilmington,Delaware,19897,58.89
+65,65,2022-08-10 14:15:09,18,Barbette Pasfield,511 Dovetail Plaza,Corpus Christi,Texas,78470,35.64
+66,66,2022-07-06 21:08:04,79,Valentina Duding,9096 Green Trail,Whittier,California,90605,65.3
+67,67,2022-12-29 08:31:10,43,Brooke Muffitt,5713 Larry Circle,Shreveport,Louisiana,71130,44.12
+68,68,2022-05-31 17:51:18,15,Ninette Pennycock,3 Canary Crossing,Raleigh,North Carolina,27658,98.19
+69,69,2022-10-17 11:53:18,91,Ynes Loines,87 Dahle Circle,Cincinnati,Ohio,45249,81.46
+70,70,2022-08-27 08:58:17,83,Aeriel Bonwell,891 Donald Trail,Indianapolis,Indiana,46221,83.3
+71,71,2022-11-18 23:37:27,69,Jojo Bangs,17 Crest Line Center,Young America,Minnesota,55557,33.31
+72,72,2023-04-11 09:23:03,62,Vanda Alldis,33 Rockefeller Point,Albuquerque,New Mexico,87195,68.17
+73,73,2022-12-04 22:14:12,5,Leeann Stouther,01558 Ilene Park,Pasadena,Texas,77505,42.18
+74,74,2023-04-13 03:33:07,63,Drucill Baldam,5 Loomis Street,Harrisburg,Pennsylvania,17105,60.59
+75,75,2023-02-01 22:48:31,6,Agnola Moorrud,4 Carioca Center,Pasadena,California,91131,74.99
+76,76,2022-11-05 04:03:21,54,Cordy Broster,195 Evergreen Alley,Boston,Massachusetts,02298,49.77
+77,77,2022-08-12 02:02:03,5,Avram Slimings,568 Bunker Hill Alley,Brooklyn,New York,11220,80.72
+78,78,2023-04-21 12:29:38,80,Lyndsie Larmet,7 Upham Trail,Pittsburgh,Pennsylvania,15235,23.84
+79,79,2022-11-29 21:36:37,8,Elmo Caldeyroux,969 American Ash Crossing,Saint Louis,Missouri,63104,33.28
+80,80,2022-10-17 02:03:41,19,Izak Gillooly,621 Meadow Ridge Way,Madison,Wisconsin,53785,29.72
+81,81,2023-04-02 11:25:18,6,Flor McFadin,3073 Starling Crossing,Orange,California,92867,91.13
+82,82,2023-01-13 15:38:40,18,Allis Denidge,0 Montana Crossing,Salt Lake City,Utah,84125,50.39
+83,83,2022-09-04 12:44:45,35,Vikky Queyeiro,68 Di Loreto Pass,Seattle,Washington,98166,79.42
+84,84,2022-07-28 18:53:09,76,Hayley Mattack,5455 Beilfuss Circle,Riverside,California,92513,82.88
+85,85,2023-02-07 00:47:26,36,Alf Kesterton,2086 Canary Avenue,Miami,Florida,33245,66.85
+86,86,2022-05-23 18:19:41,1,Sheila Barczynski,05 Algoma Street,Waterbury,Connecticut,06705,99.48
+87,87,2022-05-24 06:02:48,99,Cheryl Barras,7914 Portage Point,Brooklyn,New York,11215,87.19
+88,88,2023-04-30 19:56:35,43,Guglielmo Bedingfield,0350 Kipling Trail,Omaha,Nebraska,68164,36.98
+89,89,2023-04-21 19:21:33,28,Cad Churchlow,82234 Holy Cross Place,Carol Stream,Illinois,60158,46.52
+90,90,2023-04-23 23:01:30,3,Aldrich Bahlmann,457 Merchant Plaza,Houston,Texas,77010,17.32
+91,91,2022-06-01 11:41:28,97,Yvor Epsley,9 Mcbride Trail,Nashville,Tennessee,37210,78.64
+92,92,2022-10-30 16:18:02,99,Minnnie Pegrum,5 Mcguire Court,Decatur,Georgia,30033,12.84
+93,93,2023-03-07 10:25:16,26,Edik Venditto,991 Fremont Junction,Mobile,Alabama,36622,57.04
+94,94,2022-10-17 05:40:12,67,Ingaberg MacRedmond,11597 Loomis Court,Houston,Texas,77299,63.61
+95,95,2022-07-23 12:08:54,33,Suzi Miko,9 Gulseth Road,North Little Rock,Arkansas,72199,76.0
+96,96,2023-01-10 20:48:05,65,Maureen Coole,13477 3rd Plaza,Philadelphia,Pennsylvania,19115,63.4
+97,97,2023-03-04 09:59:34,61,Amye Nobbs,01329 Calypso Parkway,Watertown,Massachusetts,02472,75.52
+98,98,2022-09-19 22:20:23,99,Oren Wildblood,25 Katie Court,Richmond,Virginia,23220,10.72
+99,99,2022-11-25 16:41:52,74,Suki Scane,2 Alpine Alley,San Francisco,California,94142,73.05
+100,100,2023-02-15 22:23:07,68,Leoine Galle,012 Maryland Circle,Grand Rapids,Michigan,49560,77.27
+101,101,2022-10-15 20:17:24,14,Angelique Clymer,559 Vidon Parkway,Reno,Nevada,89510,59.17
+102,102,2022-06-19 16:33:51,74,Becky Nanelli,407 Green Place,Miami,Florida,33142,91.77
+103,103,2023-02-28 01:26:07,26,Rhys Jirasek,39837 Sutteridge Alley,Savannah,Georgia,31422,45.9
+104,104,2022-09-21 23:21:15,66,Manolo Fair,94800 Ramsey Hill,Charlotte,North Carolina,28256,17.06
+105,105,2023-02-06 02:06:32,16,Sally Adamov,385 Reindahl Terrace,Charlottesville,Virginia,22903,98.64
+106,106,2022-05-23 11:46:12,45,Ashleigh Ebbett,61 Melvin Way,Wilkes Barre,Pennsylvania,18706,96.56
+107,107,2022-09-07 08:40:05,91,Marji Iacabucci,0 Old Shore Center,Atlanta,Georgia,30380,20.36
+108,108,2022-07-07 16:22:37,25,Garvin Chippin,50748 Steensland Way,Montgomery,Alabama,36104,82.51
+109,109,2022-09-14 17:24:38,99,Mildred Walkey,4 Ridge Oak Drive,Charleston,West Virginia,25331,32.35
+110,110,2022-05-25 07:48:58,50,August Beecheno,5 Melvin Alley,Rochester,New York,14619,44.0
+111,111,2022-09-10 20:37:33,100,Amabel Mitchard,9 Autumn Leaf Avenue,Miami,Florida,33158,86.43
+112,112,2022-08-05 18:12:29,94,Michael Ouchterlony,724 Canary Avenue,Austin,Texas,78759,23.26
+113,113,2023-03-04 16:07:38,43,Bealle Sture,5950 Lakewood Gardens Circle,San Antonio,Texas,78245,31.75
+114,114,2022-12-04 16:56:16,94,Elvera Fautley,775 Carpenter Pass,Denver,Colorado,80243,88.4
+115,115,2022-07-08 16:36:09,95,Josee Calcutt,18 Merrick Court,Huntington,West Virginia,25770,69.42
+116,116,2022-08-09 23:43:43,13,Ashby Espinheira,876 Manley Pass,Columbia,South Carolina,29208,86.76
+117,117,2022-07-29 08:15:06,73,Tania Rikard,5486 Anderson Junction,Tucson,Arizona,85732,15.53
+118,118,2023-03-08 12:52:43,52,Janean Debnam,1 Pepper Wood Pass,Shawnee Mission,Kansas,66205,17.88
+119,119,2023-03-17 03:10:04,39,Sallyanne Salack,88379 Lyons Drive,Cincinnati,Ohio,45203,51.6
+120,120,2022-07-30 13:08:29,37,Marguerite Dobrovsky,6946 Ryan Terrace,Washington,District of Columbia,20205,30.85
+121,121,2022-06-24 02:06:46,38,Alfie McCreery,7081 Sauthoff Circle,Kingsport,Tennessee,37665,94.76
+122,122,2022-08-24 18:31:10,23,Leyla Coffin,94854 Independence Way,Sacramento,California,94291,61.16
+123,123,2022-05-19 04:28:44,13,Agretha Lomasny,56 Holy Cross Center,Spartanburg,South Carolina,29305,14.86
+124,124,2022-09-25 20:47:55,57,Merrile Aird,45441 Harper Terrace,Trenton,New Jersey,08608,24.3
+125,125,2022-10-02 07:10:58,66,Umberto Francom,76233 Anzinger Road,Philadelphia,Pennsylvania,19191,89.09
+126,126,2022-08-15 14:56:00,40,Barret Loach,32 Grim Park,Miami,Florida,33134,99.5
+127,127,2022-08-06 07:19:49,84,Madlin Sherwill,5542 Donald Junction,New York City,New York,10060,62.8
+128,128,2022-11-15 01:56:59,93,Tandi Turfes,3595 Fairview Hill,Milwaukee,Wisconsin,53234,34.09
+129,129,2022-07-12 15:19:22,37,Viva Fant,70439 Starling Street,Bethesda,Maryland,20816,36.44
+130,130,2023-01-22 21:45:34,48,Granthem McGowran,52 Onsgard Avenue,Columbus,Georgia,31914,42.38
+131,131,2023-01-06 17:11:06,59,Margery Piggrem,09081 Fordem Parkway,San Francisco,California,94132,89.05
+132,132,2023-03-30 03:05:52,72,Robinson Scholling,6888 Dorton Terrace,Springfield,Illinois,62776,84.77
+133,133,2023-02-21 10:29:36,95,Tim Spiers,540 Jay Avenue,Migrate,Kentucky,41905,53.55
+134,134,2023-03-17 22:27:15,34,Prudy Etches,42 Superior Junction,Houston,Texas,77234,77.38
+135,135,2022-10-05 00:54:10,82,Ford Dalton,4410 Talisman Street,Arvada,Colorado,80005,74.66
+136,136,2023-02-11 10:13:25,83,Carmelia Tolossi,7624 Transport Park,Tacoma,Washington,98405,31.69
+137,137,2022-07-26 13:42:44,54,Carson Ailward,5921 Manitowish Park,Galveston,Texas,77554,33.18
+138,138,2023-03-07 11:26:35,100,Kirstyn Sondon,71 Shelley Drive,Saint Louis,Missouri,63110,48.48
+139,139,2023-04-04 20:28:21,98,Jessica Estevez,2492 Hauk Court,Anniston,Alabama,36205,67.59
+140,140,2022-05-22 18:07:58,83,Krissy Sandcroft,814 Sutherland Court,Little Rock,Arkansas,72209,38.9
+141,141,2023-02-25 05:21:40,37,Albertine McNerlin,1 Crowley Place,Pasadena,California,91103,73.95
+142,142,2023-01-29 13:37:12,82,Janeen Leaman,804 Nancy Avenue,Lubbock,Texas,79405,57.32
+143,143,2023-03-01 16:17:04,78,Barby Mully,391 Brown Street,Lees Summit,Missouri,64082,78.12
+144,144,2023-01-25 08:03:56,1,Hope Baldi,1391 Buhler Pass,Minneapolis,Minnesota,55487,93.98
+145,145,2023-05-07 22:39:01,33,Leah Peile,4 Stone Corner Park,Palm Bay,Florida,32909,74.83
+146,146,2023-02-14 11:13:05,65,Erin Libbe,94875 Jana Crossing,Chicago,Illinois,60624,25.28
+147,147,2022-07-13 19:02:33,88,Brit Esser,5 Schurz Trail,Orlando,Florida,32859,64.13
+148,148,2023-03-08 15:03:19,37,Tess BoHlingolsen,2775 Havey Alley,Norfolk,Virginia,23509,61.6
+149,149,2022-07-28 15:28:26,58,Chrissie Halligan,428 Hudson Alley,Boston,Massachusetts,02298,59.21
+150,150,2023-01-28 13:36:19,89,Guilbert McReynolds,90 Texas Crossing,Pittsburgh,Pennsylvania,15240,69.69
+151,151,2023-02-13 12:01:04,10,Earl Tivers,0 Corben Crossing,Tampa,Florida,33605,20.72
+152,152,2022-05-19 11:24:21,80,Kippar Buckoke,99981 Beilfuss Parkway,Wilmington,Delaware,19810,31.02
+153,153,2022-11-17 03:42:00,15,Moise Slucock,71 Lien Junction,Denver,Colorado,80217,12.35
+154,154,2022-07-20 21:58:05,60,Tan Baines,608 Center Trail,Mobile,Alabama,36689,18.54
+155,155,2022-10-01 11:17:02,88,Lynnett Hillborne,5051 Northfield Plaza,Worcester,Massachusetts,01654,87.42
+156,156,2022-07-06 05:31:28,98,Brynna Carlile,51516 Sachs Place,Jacksonville,Florida,32215,84.08
+157,157,2023-01-09 10:09:08,35,Whitney Bloan,2082 Anzinger Hill,Reno,Nevada,89595,12.12
+158,158,2022-06-11 10:13:34,44,Hirsch Yeomans,45309 Delaware Hill,Saint Petersburg,Florida,33731,82.2
+159,159,2022-06-02 11:08:20,4,Shem Tesauro,68 Luster Street,Kansas City,Missouri,64142,55.46
+160,160,2023-02-17 02:15:50,73,Derward Backhurst,19 Schurz Plaza,Lancaster,Pennsylvania,17605,22.33
+161,161,2022-05-26 10:37:38,12,Tony Lithcow,8 Troy Terrace,Pueblo,Colorado,81005,86.32
+162,162,2022-06-02 14:47:04,50,Lisa Mordie,51992 Green Drive,Erie,Pennsylvania,16550,29.07
+163,163,2022-05-10 02:35:16,100,Bradly Beart,3 Mcbride Hill,Long Beach,California,90805,55.02
+164,164,2022-07-21 06:34:41,48,Ardenia Hyndson,3341 Hansons Plaza,Phoenix,Arizona,85062,93.86
+165,165,2022-11-26 18:45:36,98,Shelley Abdee,850 Eagle Crest Crossing,Salt Lake City,Utah,84152,97.26
+166,166,2022-10-26 09:15:39,31,Wright Atter,533 Petterle Lane,Erie,Pennsylvania,16505,70.4
+167,167,2022-10-05 13:07:37,55,Georgetta Bowhay,2101 Warbler Avenue,Greensboro,North Carolina,27409,57.92
+168,168,2022-08-26 07:22:02,87,Bernard Oakden,3 Jay Drive,Lawrenceville,Georgia,30045,23.67
+169,169,2023-01-08 23:32:52,89,Isa Labet,11 Mifflin Terrace,Augusta,Georgia,30919,95.8
+170,170,2022-11-28 02:20:29,26,Dolley Radoux,00967 Annamark Hill,Boca Raton,Florida,33499,10.23
+171,171,2023-04-25 10:35:59,9,Aurelia Blore,153 Thackeray Park,Flushing,New York,11388,38.81
+172,172,2023-02-17 03:01:26,69,Jeramie Tregunnah,27 Emmet Junction,Philadelphia,Pennsylvania,19136,96.75
+173,173,2022-11-14 06:44:21,38,Lanie Turpey,0838 Becker Road,Stamford,Connecticut,06912,28.59
+174,174,2022-08-15 04:17:34,36,Darlleen Stormonth,2 Mcguire Circle,Salt Lake City,Utah,84115,37.77
+175,175,2022-08-02 05:44:41,88,Xymenes Jerok,67 Independence Parkway,Carson City,Nevada,89706,61.15
+176,176,2023-02-19 13:22:35,42,Patin Waudby,46 Valley Edge Plaza,Midland,Texas,79710,86.51
+177,177,2023-04-29 03:48:13,23,Meta Riggulsford,3535 Maryland Parkway,Tacoma,Washington,98424,26.02
+178,178,2022-11-27 09:12:21,37,Vassily Walisiak,081 Oak Valley Pass,Washington,District of Columbia,20036,52.54
+179,179,2023-01-03 14:07:20,86,Rosaleen Folke,6902 Debs Park,Mobile,Alabama,36605,40.3
+180,180,2023-04-20 02:05:38,23,Phyllida Ost,5922 Alpine Trail,North Las Vegas,Nevada,89087,14.52
+181,181,2022-10-07 06:29:58,76,Quintin Bompass,9800 Corben Plaza,El Paso,Texas,79968,85.77
+182,182,2023-04-27 19:06:28,99,Creigh Haddleton,6000 Buena Vista Hill,Youngstown,Ohio,44555,80.82
+183,183,2022-10-02 04:18:54,17,Elianore Curado,5 Moose Pass,Salt Lake City,Utah,84105,68.02
+184,184,2022-08-01 21:44:14,3,Dara Bartolomeotti,32 Butterfield Pass,Tampa,Florida,33686,80.53
+185,185,2022-05-12 07:48:52,71,Rossy Kurtis,2047 Forster Street,Greensboro,North Carolina,27499,87.72
+186,186,2022-05-09 11:33:27,54,Dunn Van der Baaren,61 Sutteridge Alley,Canton,Ohio,44720,47.79
+187,187,2023-02-18 18:33:23,10,Aviva Colborn,81 Birchwood Terrace,Detroit,Michigan,48224,30.47
+188,188,2022-11-26 00:48:13,74,Arlana Dowry,8926 Reindahl Hill,Birmingham,Alabama,35244,16.28
+189,189,2023-01-29 18:54:31,52,Toby Gorusso,169 Hoffman Crossing,New Orleans,Louisiana,70179,95.14
+190,190,2022-12-13 17:57:24,44,Saidee Huff,00128 Glendale Way,North Hollywood,California,91606,42.27
+191,191,2022-06-10 11:22:03,32,Rosalia Berr,86353 Bonner Trail,Lexington,Kentucky,40546,57.72
+192,192,2023-03-26 13:05:33,92,Darius Stollsteiner,88 Wayridge Terrace,Clearwater,Florida,33763,28.0
+193,193,2023-03-01 12:44:15,73,Margo Greneham,3 Acker Street,Pueblo,Colorado,81010,95.26
+194,194,2022-09-22 15:02:12,62,Andriette Tapton,60277 Service Pass,Spokane,Washington,99252,38.38
+195,195,2022-11-25 20:11:53,11,Fonz Boadby,99032 Fuller Trail,Buffalo,New York,14269,44.79
+196,196,2023-02-11 11:18:23,87,Marleen Overel,24112 Jay Junction,Colorado Springs,Colorado,80920,99.84
+197,197,2023-04-11 05:04:38,61,Duff Hopewell,84 Moland Drive,San Diego,California,92186,28.18
+198,198,2022-11-09 23:30:20,8,Delcina McAlister,785 Coolidge Alley,New Haven,Connecticut,06520,40.17
+199,199,2022-09-28 23:26:30,28,Eleanora Lowell,52 Harper Drive,Atlanta,Georgia,30368,66.53
+200,200,2022-10-06 08:59:32,49,Silvanus Donson,30355 Cottonwood Alley,Fort Lauderdale,Florida,33355,28.88
