@@ -1,5 +1,5 @@
 -- Create a database to store data
-CREATE DATABASE Class
+CREATE DATABASE Class;
 
 -- Create tables to organize data into
 CREATE TABLE customers (
