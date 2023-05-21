@@ -1,4 +1,4 @@
---This function allows the user to pull up historic order information for a customer given a customer's email address
+--This function allows the user to pull up historic order information for a customer given the customer's email address
 CREATE FUNCTION Order_Info_From_Email (@email VARCHAR(255))
 RETURNS TABLE AS
 RETURN
