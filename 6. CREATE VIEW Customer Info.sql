@@ -1,4 +1,4 @@
---Create a view so information can be viewed/interacted with safely, without risking the data in the database
+--Views are virtual tables and can be interacted with safely, without risking the data in the database
 CREATE VIEW Customer_Info
 AS
   SELECT customer_id, first_name, last_name, email, city, state
@@ -7,7 +7,7 @@ AS
 --Select the view to see contents
 SELECT * FROM [dbo].[Customer_Info];
 
---Contents can be manipulated without impacting the database
+--Contents can be manipulated without affecting the underlying tables
 --User can insert new entries
 INSERT INTO [dbo].[Customer_Info] (customer_id, first_name, last_name, email, city, state)
 VALUES (101, 'Michael', 'Bunce', 'michaelbunce@email.com', 'Albany', 'New York');
