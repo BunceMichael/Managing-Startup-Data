@@ -1,4 +1,4 @@
---Now that the data is loaded into SQL Server, we can create useful views
+--Once the data is loaded into SQL Server, we can create useful views
 --This one aggregates data by state for geographic sales analysis
 CREATE VIEW Sales_by_State 
 AS 
