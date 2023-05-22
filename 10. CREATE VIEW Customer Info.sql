@@ -21,4 +21,4 @@ ALTER VIEW Customer_Info
 AS
 	SELECT C.customer_id, C.first_name, C.last_name, O.order_id, O.order_date
 	FROM customers C
-		FULL JOIN orders O on C.customer_id = O.customer_id
+		FULL JOIN orders O on C.customer_id = O.customer_id;
