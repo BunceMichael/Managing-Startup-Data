@@ -1,4 +1,4 @@
-﻿--Create stored procedure for use later
+﻿--Create stored procedures for use later
 --This one calculates the total revenue between two given dates
 CREATE PROCEDURE Calculate_Total_Sales
 	@Start_Date DATETIME,
