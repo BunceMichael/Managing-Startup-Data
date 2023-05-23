@@ -15,7 +15,7 @@ Four separate csv files were created, one for each table in the database.
 [FPcustomers.csv](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/FPcustomers.csv),
 [FPorders.csv](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/FPorders.csv),
 [FPorder_items.csv](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/FPorder_items.csv),
-[FPproducts.csv](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/FPproducts.csv)
+and [FPproducts.csv](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/FPproducts.csv)
 # Importing the Data 
 In order to load the data into the database, Talend Open Studio for Data Integration was used. The job design can be seen below. 
 <img width="671" alt="Screen Shot 2023-05-23 at 2 13 10 PM" src="https://github.com/BunceMichael/SQL-ETL_Final_Project/assets/108441653/d8356aee-318d-4aab-8c9d-bef961cb772b">
