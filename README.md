@@ -17,7 +17,8 @@ Four separate csv files were created, one for each table in the database.
 [FPorder_items.csv](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/FPorder_items.csv),
 and [FPproducts.csv](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/FPproducts.csv)
 # Importing the Data 
-In order to load the data into the database, Talend Open Studio for Data Integration was used. The job design can be seen below. 
+In order to load the data into the database, Talend Open Studio for Data Integration was used. The job design can be seen below.
+
 <img width="671" alt="Screen Shot 2023-05-23 at 2 13 10 PM" src="https://github.com/BunceMichael/SQL-ETL_Final_Project/assets/108441653/d8356aee-318d-4aab-8c9d-bef961cb772b">
 
 First, a connection is made between Talend and the SQL Server database, tDBConnection_1. Then, each csv file is input as a file delimited and output to the database, into its corresponding table (tFileInputDelimited to tDBOutput 1 through 4). Upon completion of these tasks, Talend is disconnected from the database, tDBClose_1. With the current configuration, each time the job is run, the tables in the database are emptied and repopulated with the original csv files. This means if the data is altered or deleted in SQL Server, running the Talend job again would put everything back in its original form.
