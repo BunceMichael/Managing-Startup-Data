@@ -34,8 +34,7 @@ By selecting specific columns, joining multiple tables, and applying filters, vi
 [4. CREATE STORED PROCEDURE Calculate Total Sales.sql](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/4.%20CREATE%20STORED%20PROCEDURE%20Calculate%20Total%20Sales.sql) shows the creation of a stored procedure that can be executed whenever a user wants to know the total sales for a given period. This procedure can be integrated with reporting tools or used as a data source for generating reports, dashboards, or visualizations. This could enable the business to monitor sales performance, identify trends, and make data-driven decisions based on accurate and up-to-date information.
 
 [5. CREATE FUNCTION Order Info From Email.sql](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/5.%20CREATE%20FUNCTION%20Order%20Info%20From%20Email.sql) shows the creation of a function that allows the user to pull up a table with a customer's order history by inputing their email address. The resulting table is shown below.
-<img width="658" alt="Screen Shot 2023-05-23 at 2 34 29 PM" src="https://github.com/BunceMichael/SQL-ETL_Final_Project/assets/108441653/f02f8477-65e1-4bcf-b484-cbeb976a2427">
-
+<img width="631" alt="Screen Shot 2023-05-23 at 2 41 56 PM" src="https://github.com/BunceMichael/SQL-ETL_Final_Project/assets/108441653/c2a04c73-edd1-4b13-b5ea-0c1222053e69">
 
 This could be used by customer service reps to quickly access information about a customer's purchase history. The information provided by this function could also be used for personalized marketing and communication efforts. Using this tool, the business can analyze a customer's past purchases and send targeted promotions or recommendations based on their order history, enhancing customer engagement and loyalty.
 
