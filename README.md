@@ -26,6 +26,7 @@ File [2. Talend Job ImportFPdata.zip](https://github.com/BunceMichael/SQL-ETL_Fi
 contains a zip file to the job.
 # Using the Database
 [3. CREATE VIEW Sales by State.sql](https://github.com/BunceMichael/SQL-ETL_Final_Project/blob/6df46e83a5f3f52f2667cfb4dfe2d98ea481d039/3.%20CREATE%20VIEW%20Sales%20by%20State.sql) shows the creation of a view that combines and selects specific data from the customers, orders, and order_items tables to display a table that shows total sales and revenue by state. The resulting view is shown below. 
+
 <img width="658" alt="Screen Shot 2023-05-23 at 2 15 06 PM" src="https://github.com/BunceMichael/SQL-ETL_Final_Project/assets/108441653/64ac70ef-a5d8-49bc-a1e1-584d1bef5793">
 
 By selecting specific columns, joining multiple tables, and applying filters, views can present a simplified and coherent view of the data for reporting purposes. This can improve the efficiency of data retrieval and simplify the reporting and analytics workflow. This information provided by the Sales_by_State view could be used to identify market opportunites, target marketing efforts, adjust distribution and supply chain, adapt pricing, and develop regional sales strategies. 
